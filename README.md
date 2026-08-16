@@ -43,7 +43,7 @@ After this, your Z10 should boot into a normal state. Instead of booting straigh
 ### Pablo Ferreira 
 [Reddit: u/Confident-Guess2914](https://www.reddit.com/u/Confident-Guess2914)
 <br>[Github: FerrieraPablo](https://github.com/FerreiraPablo)
-<br> Code writer
+<br> Code editor
 <br> De-bloated image
 
 ### OS Guy
