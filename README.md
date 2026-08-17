@@ -5,13 +5,13 @@ The GitHub Issue Reporting page and Setup Guide for bypassing the Blackberry Z10
 # Setup Guide
 First, download the required files from the MEGA link, or you can click [here](https://mega.nz/folder/UI1jVYqA#n405DxKsOhgpazCgu9wwYQ), 
 <br>The latest release is v1.0.
-<br>You will also need cfp.exe, if you don't already have it.
+<br>You will also need [cfp.exe](https://mega.nz/file/cI8gkYaC#yACNSnrVI3aA6K7xkg6pY9Bw8Te5KagepWfJAp5X0AA), if you don't already have it.
 
 ## Step 1
 Open a Command Prompt in the directory of where the files are stored.
 
 ## Step 2
-**INFO: You will need the Blackberry Desktop Manager**
+**INFO: You will need [Blackberry Link.](https://mega.nz/file/BE9FwQYD#WwlrI75lKqsYiwhzgPWKLaTr3XBukg3r6Nj_kZXlBog)**
 <br>Run command:
 ```batch
 cfp load os.Signed
